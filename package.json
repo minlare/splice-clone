@@ -1,0 +1,16 @@
+{
+  "name": "splice-clone",
+  "version": "1.0.0",
+  "description": "Splice and clone javascript arrays in one function",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minlare/splice-clone.git"
+  },
+  "author": "Michael Windell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minlare/splice-clone/issues"
+  },
+  "homepage": "https://github.com/minlare/splice-clone#readme"
+}
